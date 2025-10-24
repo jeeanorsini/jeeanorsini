@@ -1,8 +1,8 @@
 # Olá, sejam bem-vindos 👋  
 🌐🤌🏻 Me chamo **Jean Orsini**<br>  
-🤸🏻‍♂️🤾🏻‍♂️ Hospedo projetos para treinar e demonstrar minhas habilidades.<br>  
-🧑🏻‍💻👨🏻‍🦯 Sou interessado em projetos criativos e desafiadores — costumo gostar do que muitos consideram impossível.<br>  
-💬👨🏻‍🦼 Pergunte-me sobre tecnologia, desenvolvimento de software e inovação — responderei com assertividade.
+🤸🏻‍♂️🤾🏻‍♂️ Hospedando projetos que demonstrem minhas habilidades<br>  
+🧑🏻‍💻👨🏻‍🦯 Sou interessado em projetos criativos e desafiadores<br>  
+💬👨🏻‍🦼 Pergunte-me sobre tecnologia,desenvolvimento e criação
 
 ## 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeeanorsini) 
