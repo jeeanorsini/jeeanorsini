@@ -1,9 +1,9 @@
 ## Olá, Sejam bem vindos 👋
 # 💫 Sobre Mim:
 🌐🤌🏻Me chamo Jean Orsini<br>  
-🤸🏻‍♂️🤾🏻‍♂️Hospedando projetos para treinar e demonstrar minhas habilidades.<br>  
+🤸🏻‍♂️🤾🏻‍♂️Hospedando projetos para treinar e demonstrar minhas habilidades <br>  
 🧑🏻‍💻👨🏻‍🦯 Sou nteressado em projetos criativos e desafiadores. Eu costumo gostar do que julgam ser impossível <br>  
-💬👨🏻‍🦼 Pergunte-me sobre tecnologia, desenvolvimento de software e inovação, responderei com assertividade.
+💬👨🏻‍🦼 Pergunte-me sobre tecnologia, desenvolvimento de software e inovação, responderei com assertividade
 
 ## 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeeanorsini) 
