@@ -1,9 +1,10 @@
-## Olá, Sejam bem vindos 👋
+## Olá, sejam bem-vindos 👋  
+
 # 💫 Sobre Mim:
-🌐🤌🏻Me chamo Jean Orsini<br>  
-🤸🏻‍♂️🤾🏻‍♂️Hospedando projetos para treinar e demonstrar minhas habilidades <br>  
-🧑🏻‍💻👨🏻‍🦯 Sou nteressado em projetos criativos e desafiadores. Eu costumo gostar do que julgam ser impossível <br>  
-💬👨🏻‍🦼 Pergunte-me sobre tecnologia, desenvolvimento de software e inovação, responderei com assertividade
+🌐🤌🏻 Me chamo **Jean Orsini**<br>  
+🤸🏻‍♂️🤾🏻‍♂️ Hospedo projetos para treinar e demonstrar minhas habilidades.<br>  
+🧑🏻‍💻👨🏻‍🦯 Sou interessado em projetos criativos e desafiadores — costumo gostar do que muitos consideram impossível.<br>  
+💬👨🏻‍🦼 Pergunte-me sobre tecnologia, desenvolvimento de software e inovação — responderei com assertividade.
 
 ## 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeeanorsini) 
@@ -37,5 +38,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 
-Volte, que terei novidades em breve 👋<br/>
+
+---
+
+👋 **Volte em breve — novidades estão a caminho!**
