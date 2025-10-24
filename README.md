@@ -41,4 +41,4 @@
 
 ---
 
-👋 **Volte em breve — novidades estão a caminho!**
+👋 **Volte em breve - novidades estão a caminho!**
