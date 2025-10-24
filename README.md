@@ -38,9 +38,5 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=jeeanorsini&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jeeanorsini&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeanorsini&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🧘🏻‍♂️Pode voltar, te garanto que terei novidades em breve 👋
+# <br/>
+##🧘🏻‍♂️Pode voltar, te garanto que terei novidades em breve 👋<br/>
