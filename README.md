@@ -1,6 +1,4 @@
-## Olá, sejam bem-vindos 👋  
-
-# 💫 Sobre Mim:
+# Olá, sejam bem-vindos 👋  
 🌐🤌🏻 Me chamo **Jean Orsini**<br>  
 🤸🏻‍♂️🤾🏻‍♂️ Hospedo projetos para treinar e demonstrar minhas habilidades.<br>  
 🧑🏻‍💻👨🏻‍🦯 Sou interessado em projetos criativos e desafiadores — costumo gostar do que muitos consideram impossível.<br>  
