@@ -2,7 +2,7 @@
 🌐🤌🏻 Me chamo **Jean Orsini**<br>  
 🤸🏻‍♂️🤾🏻‍♂️ Hospedando projetos que demonstrem minhas habilidades<br>  
 🧑🏻‍💻👨🏻‍🦯 Sou interessado em projetos criativos e desafiadores<br>  
-💬👨🏻‍🦼 Pergunte-me sobre tecnologia, desenvolvimento e criação
+💬👨🏻‍🦼 Pergunte-me sobre tecnologia, desenvolvimento e iniciativas
 
 ## 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeeanorsini) 
